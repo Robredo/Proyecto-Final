@@ -4,6 +4,7 @@ rt694079
 
 Definicion de proyecto:
 
-1.- Lenguaje PYTHON
+1.- Lenguaje: PYTHON
 2.- Framming: Delimitador
-3.- Big Endian
+3.- Encoding: String
+    Endianness: Big Endian
