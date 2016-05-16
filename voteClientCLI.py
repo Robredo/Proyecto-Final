@@ -1,5 +1,5 @@
 # Voting Server CLI
-
+#Esta aplicacion funciona de esta manera debido a que solo manda un byte y no presenta los problemas de "fragmentación"
 
 import socket
 import time
